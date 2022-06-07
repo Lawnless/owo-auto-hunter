@@ -1,2 +1,2 @@
 # Owo-Auto-Hunter
-Python üzerinde discord.py ile geliştirilmiş Discord üzerinde ki OwO botu için hayvan(zoo) kasma sistemi.
+Developed with Python programming language and discord.py library, Auto-hunting OwO animals and win battles for you!
